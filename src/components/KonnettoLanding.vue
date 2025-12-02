@@ -105,19 +105,20 @@
         <div class="mockup-row">
           <div class="mockup-card">
             <img src="/mockup-feed.png" alt="Konnetto Feed UI" />
-            <div class="mockup-label">Your fandom feed</div>
+            <div class="mockup-label">Your Otaku Profile</div>
           </div>
 
           <div class="mockup-card">
             <img src="/mockup-profile.png" alt="Creator Profile UI" />
-            <div class="mockup-label">Creator profiles</div>
+            <div class="mockup-label">Creator Profile</div>
           </div>
 
           <div class="mockup-card">
             <img src="/mockup-library.png" alt="Anime Library UI" />
-            <div class="mockup-label">Share your favorite anime with friends</div>
+            <div class="mockup-label">Your Anime Picks</div>
           </div>
         </div>
+
       </section>
 
       <!-- WHY KONNETTO -->
