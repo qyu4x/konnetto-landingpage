@@ -7,11 +7,13 @@
 // import CommunitySection from './components/CommunitySection.vue'
 // import CtaSection from './components/CtaSection.vue'
 // import FooterSection from './components/FooterSection.vue'
-import KonnettoLanding from './components/KonnettoLanding.vue'
+// import KonnettoLanding from './components/KonnettoLanding.vue'
+import UnderDevelopment from './components/UnderDevelopment.vue'
+
 
 console.log('[APP] mounted layout components')
 </script>
 
 <template>
-  <KonnettoLanding />
+  <UnderDevelopment />
 </template>
